@@ -11,3 +11,9 @@
 # INSTALL DEPENDENCIES
 
     pip install streamlit pandas numpy matplotlib seaborn plotly
+
+# RUN PROGRAM
+
+    streamlit run Dashboard.py
+
+By Gleaphe 2025 .
